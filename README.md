@@ -1,7 +1,7 @@
 # goit-markup-hw-01
 #1 zadanie domowe
 
-Projekt
+Projekt<br> 
 «A1» Główny plik HTML ma nazwę index.html.
 
 «A2» W katalogu głównym projektu znajduje się folder images z obrazami.
@@ -17,7 +17,6 @@ Projekt
 «A7» Kod jest napisany zgodnie z tutorialem.
 
 Znaczniki HTML
-
 «B1» Znaczniki HTML strony Studio są wpisywane w pliku index.html.
 
 «B2» Wykonane są znaczniki HTML wszystkich elementów układu.
